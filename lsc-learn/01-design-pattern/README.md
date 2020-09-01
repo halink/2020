@@ -22,3 +22,10 @@
     模板模式 Template Pattern 
     委派模式 Delegate Pattern 
     观察者模式 Observer Pattern
+
+### 工厂模式
+    简单
+    
+    抽象
+    
+    数据库连接池实现
