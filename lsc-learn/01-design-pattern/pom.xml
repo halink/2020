@@ -11,6 +11,7 @@
     <modules>
         <module>01-singleton-pattern</module>
         <module>02-factory-pattern</module>
+        <module>03-clone-pattern</module>
     </modules>
 
 		<build>

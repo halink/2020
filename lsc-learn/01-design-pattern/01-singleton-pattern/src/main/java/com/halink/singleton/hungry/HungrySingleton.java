@@ -27,4 +27,14 @@ public class HungrySingleton implements Serializable {
     private Object readResolve() {
         return HUNGRY_SINGLETON;
     }
+
+    /**
+     * 防止深度拷贝破坏单例
+     *
+     * @return
+     */
+    @Override
+    protected Object clone() {
+        return HUNGRY_SINGLETON;
+    }
 }
