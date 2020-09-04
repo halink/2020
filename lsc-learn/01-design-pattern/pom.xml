@@ -17,6 +17,8 @@
         <module>06-strategy-pattern</module>
         <module>07-template-pattern</module>
         <module>09-adapter-pattern</module>
+        <module>10-decorator-pattern</module>
+        <module>11-observer-pattern</module>
     </modules>
     <dependencies>
         <dependency>
